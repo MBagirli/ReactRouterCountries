@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ReactRouterCountries/static/css/main.9b9504b4.css",
+    "main.js": "/ReactRouterCountries/static/js/main.1d2f6239.js",
+    "index.html": "/ReactRouterCountries/index.html",
+    "static/media/icons8-menu.svg": "/ReactRouterCountries/static/media/icons8-menu.dadcc7a3a70c530486355e5242e2d0b7.svg",
+    "main.9b9504b4.css.map": "/ReactRouterCountries/static/css/main.9b9504b4.css.map",
+    "main.1d2f6239.js.map": "/ReactRouterCountries/static/js/main.1d2f6239.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b9504b4.css",
+    "static/js/main.1d2f6239.js"
+  ]
+}
