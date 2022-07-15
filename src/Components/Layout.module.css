@@ -17,6 +17,10 @@
   gap: 50px;
 }
 
+.container__first h2 {
+  text-align: center;
+}
+
 .container__first p {
   font-size: 24px;
   text-align: center;
