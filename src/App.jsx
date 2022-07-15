@@ -10,7 +10,7 @@ function App() {
     <div className="App">
       <Header />
       <Routes>
-        <Route path="/" element={<Default />} />
+        <Route path="/ReactRouterCountries" element={<Default />} />
         <Route path="/:CountryId" element={<Region />} />
         <Route path="/:CountryId/:DetailsId" element={<CountryDetails />} />
       </Routes>
